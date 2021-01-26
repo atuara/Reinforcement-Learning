@@ -1,5 +1,3 @@
-# Reinforcement-Learning
-Train a Reinforcement Learning Agent to play Tic-Tac-Toe 
 # RL_TicTacToe
 Building Reinforcement Learning Agent and Environment for  Numerical Tic-Tac-Toe. 
 
